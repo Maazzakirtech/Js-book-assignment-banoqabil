@@ -15,12 +15,12 @@ for (var j = 0; j < renderElements.length; j++) {
 }
 
 var firstNameInput = document.getElementById("first-name");
-firstNameInput.value = "Eman";
+firstNameInput.value = "maaz";
 
 var lastNameInput = document.getElementById("last-name");
 var emailInput = document.getElementById("email");
-lastNameInput.value = "Shafiq";
-emailInput.value = "emanshafiq78654@gmail.com";
+lastNameInput.value = "maaz zakir";
+emailInput.value = "maazzakir4@gmail.com";
 
 //Question / 02:
 
